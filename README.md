@@ -1,2 +1,2 @@
 # pytorch
-pytorch 코드 모음
+pytorch tutorials
